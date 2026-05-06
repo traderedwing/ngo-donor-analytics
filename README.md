@@ -3,28 +3,30 @@
 ## Problem
 
 The organization experiences unstable revenue driven by low donor retention and inefficient marketing allocation.
-  *Over-reliance on one-time donations
-  *High acquisition costs with low long-term return
-  *Lack of visibility into campaign effectiveness
+
+*Over-reliance on one-time donations
+*High acquisition costs with low long-term return
+*Lack of visibility into campaign effectiveness
 
 ---
 
 ## Objective
 
 Identify growth levers to:
-  *increase donor retention
-  *improve acquisition efficiency
-  *optimize campaign ROI
-  *maximize social impact per dollar spent
+
+*increase donor retention
+*improve acquisition efficiency
+*optimize campaign ROI
+*maximize social impact per dollar spent
 
 ---
 ## Key Questions
 
-  *Which channels bring the most valuable donors?
-  *What is the donor retention rate over time?
-  *Which campaigns deliver the highest ROI?
-  *How efficiently are donations converted into impact?
-  *Who are the high-value donors?
+*Which channels bring the most valuable donors?
+*What is the donor retention rate over time?
+*Which campaigns deliver the highest ROI?
+*How efficiently are donations converted into impact?
+*Who are the high-value donors?
 
 ---
 
@@ -45,8 +47,10 @@ Campaign performance varies:
 ## A/B Test (Simulation)
 
 A retention-focused strategy (e.g., follow-up engagement):
-  *+145% increase in repeat donation rate
-  *Strongest effect observed in mid- and high-value segments
+
+*+145% increase in repeat donation rate
+*Strongest effect observed in mid- and high-value segments
+
 Indicates retention is the highest-impact growth lever
 
 ---
@@ -58,13 +62,13 @@ Indicates retention is the highest-impact growth lever
 
 ---
 
-## 🔄 Data Pipeline
+## Data Pipeline
 
 Data → Data Cleaning → Analysis → Dashboard
 
 ---
 
-## 📈 Dashboard Preview
+## Dashboard Preview
 
 ![Dashboard](screenshots/dashboard.png)
 
