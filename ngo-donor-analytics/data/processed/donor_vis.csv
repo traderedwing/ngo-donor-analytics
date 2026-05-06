@@ -1,0 +1,501 @@
+donor_id,age,country,acquisition_channel
+1,56.0,uk,Email
+2,69.0,ukraine,Referral
+3,46.0,poland,Referral
+4,32.0,poland,Google Ads
+5,60.0,ukraine,Organic
+6,25.0,ukraine,Google Ads
+7,38.0,poland,Referral
+8,56.0,ukraine,Unknown
+9,36.0,ukraine,Referral
+10,40.0,ukraine,Unknown
+11,28.0,uk,Facebook Ads
+12,28.0,uk,Referral
+13,41.0,ukraine,Facebook Ads
+14,45.0,uk,Organic
+15,53.0,ukraine,Google Ads
+16,57.0,ukraine,Unknown
+17,41.0,uk,Google Ads
+18,20.0,ukraine,Facebook Ads
+19,39.0,uk,Unknown
+20,45.0,ukraine,Google Ads
+21,19.0,germany,Referral
+22,41.0,usa,Email
+23,61.0,poland,Facebook Ads
+24,47.0,germany,Google Ads
+25,55.0,uk,Facebook Ads
+26,19.0,ukraine,Facebook Ads
+27,38.0,ukraine,Unknown
+28,50.0,uk,Unknown
+29,29.0,ukraine,Email
+30,39.0,usa,Referral
+31,61.0,uk,Facebook Ads
+32,42.0,ukraine,Google Ads
+33,66.0,ukraine,Organic
+34,44.0,ukraine,Facebook Ads
+35,59.0,ukraine,Facebook Ads
+36,45.0,ukraine,Email
+37,33.0,usa,Referral
+38,32.0,uk,Organic
+39,64.0,usa,Unknown
+40,68.0,poland,Unknown
+41,61.0,poland,Google Ads
+42,69.0,uk,Organic
+43,20.0,ukraine,Unknown
+44,54.0,usa,Google Ads
+45,68.0,ukraine,Referral
+46,24.0,ukraine,Google Ads
+47,38.0,ukraine,Unknown
+48,26.0,uk,Email
+49,56.0,ukraine,Email
+50,35.0,poland,Email
+51,21.0,poland,Unknown
+52,42.0,ukraine,Email
+53,31.0,uk,Organic
+54,67.0,usa,Referral
+55,26.0,poland,Google Ads
+56,43.0,usa,Google Ads
+57,45.0,ukraine,Unknown
+58,19.0,poland,Email
+59,37.0,poland,Email
+60,45.0,germany,Facebook Ads
+61,64.0,poland,Referral
+62,24.0,ukraine,Organic
+63,61.0,uk,Google Ads
+64,25.0,uk,Facebook Ads
+65,64.0,usa,Facebook Ads
+66,52.0,ukraine,Unknown
+67,31.0,poland,Google Ads
+68,34.0,ukraine,Unknown
+69,53.0,usa,Organic
+70,67.0,germany,Facebook Ads
+71,57.0,usa,Facebook Ads
+72,21.0,usa,Referral
+73,19.0,poland,Organic
+74,23.0,germany,Facebook Ads
+75,59.0,usa,Organic
+76,21.0,ukraine,Google Ads
+77,46.0,ukraine,Email
+78,35.0,uk,Facebook Ads
+79,43.0,germany,Referral
+80,61.0,germany,Google Ads
+81,51.0,uk,Organic
+82,27.0,usa,Unknown
+83,53.0,germany,Google Ads
+84,31.0,ukraine,Facebook Ads
+85,48.0,ukraine,Organic
+86,65.0,poland,Email
+87,32.0,germany,Google Ads
+88,25.0,usa,Facebook Ads
+89,31.0,uk,Referral
+90,40.0,uk,Unknown
+91,57.0,usa,Organic
+92,38.0,ukraine,Google Ads
+93,33.0,ukraine,Google Ads
+94,62.0,poland,Email
+95,35.0,uk,Email
+96,64.0,germany,Referral
+97,45.0,poland,Unknown
+98,41.0,germany,Referral
+99,43.0,ukraine,Facebook Ads
+100,42.0,ukraine,Facebook Ads
+101,62.0,poland,Referral
+102,58.0,uk,Unknown
+103,46.0,poland,Referral
+104,32.0,poland,Unknown
+105,62.0,poland,Unknown
+106,18.0,ukraine,Organic
+107,42.0,poland,Unknown
+108,24.0,germany,Email
+109,26.0,ukraine,Unknown
+110,41.0,ukraine,Unknown
+111,18.0,usa,Unknown
+112,61.0,poland,Facebook Ads
+113,25.0,uk,Email
+114,41.0,poland,Email
+115,28.0,uk,Referral
+116,68.0,germany,Organic
+117,34.0,uk,Unknown
+118,25.0,usa,Google Ads
+119,52.0,ukraine,Organic
+120,52.0,uk,Organic
+121,50.0,uk,Email
+122,22.0,ukraine,Organic
+123,59.0,usa,Unknown
+124,56.0,poland,Unknown
+125,58.0,uk,Facebook Ads
+126,45.0,ukraine,Unknown
+127,24.0,germany,Unknown
+128,26.0,ukraine,Email
+129,25.0,germany,Unknown
+130,29.0,usa,Facebook Ads
+131,51.0,poland,Google Ads
+132,50.0,ukraine,Email
+133,65.0,ukraine,Google Ads
+134,40.0,ukraine,Email
+135,41.0,ukraine,Referral
+136,54.0,uk,Organic
+137,52.0,usa,Referral
+138,61.0,ukraine,Unknown
+139,57.0,ukraine,Google Ads
+140,39.0,uk,Unknown
+141,44.0,ukraine,Organic
+142,52.0,ukraine,Email
+143,18.0,germany,Organic
+144,52.0,ukraine,Facebook Ads
+145,54.0,ukraine,Organic
+146,64.0,ukraine,Facebook Ads
+147,31.0,ukraine,Organic
+148,20.0,ukraine,Facebook Ads
+149,18.0,usa,Google Ads
+150,22.0,ukraine,Unknown
+151,43.0,ukraine,Unknown
+152,31.0,uk,Referral
+153,56.0,germany,Unknown
+154,44.0,germany,Email
+155,26.0,ukraine,Organic
+156,32.0,usa,Referral
+157,32.0,usa,Email
+158,43.0,uk,Email
+159,59.0,ukraine,Facebook Ads
+160,30.0,germany,Unknown
+161,68.0,usa,Google Ads
+162,49.0,ukraine,Google Ads
+163,56.0,ukraine,Referral
+164,66.0,usa,Google Ads
+165,69.0,ukraine,Organic
+166,49.0,ukraine,Google Ads
+167,21.0,usa,Referral
+168,47.0,germany,Google Ads
+169,54.0,poland,Organic
+170,40.0,ukraine,Facebook Ads
+171,56.0,uk,Referral
+172,62.0,uk,Facebook Ads
+173,32.0,germany,Facebook Ads
+174,60.0,usa,Facebook Ads
+175,46.0,ukraine,Email
+176,53.0,usa,Unknown
+177,30.0,germany,Email
+178,49.0,uk,Unknown
+179,24.0,usa,Facebook Ads
+180,68.0,uk,Referral
+181,39.0,ukraine,Unknown
+182,45.0,ukraine,Organic
+183,19.0,ukraine,Organic
+184,59.0,uk,Google Ads
+185,62.0,uk,Unknown
+186,45.0,poland,Referral
+187,23.0,poland,Email
+188,45.0,ukraine,Facebook Ads
+189,45.0,ukraine,Google Ads
+190,61.0,ukraine,Organic
+191,61.0,poland,Email
+192,37.0,uk,Email
+193,47.0,germany,Facebook Ads
+194,28.0,ukraine,Unknown
+195,45.0,uk,Organic
+196,42.0,germany,Referral
+197,56.0,germany,Email
+198,50.0,poland,Facebook Ads
+199,18.0,ukraine,Referral
+200,44.0,usa,Unknown
+201,69.0,ukraine,Organic
+202,30.0,poland,Unknown
+203,58.0,poland,Email
+204,20.0,usa,Referral
+205,56.0,ukraine,Referral
+206,23.0,uk,Referral
+207,25.0,ukraine,Email
+208,44.0,ukraine,Email
+209,26.0,ukraine,Unknown
+210,54.0,uk,Google Ads
+211,50.0,poland,Unknown
+212,68.0,ukraine,Organic
+213,59.0,poland,Facebook Ads
+214,61.0,germany,Referral
+215,41.0,poland,Google Ads
+216,32.0,poland,Facebook Ads
+217,49.0,uk,Google Ads
+218,49.0,uk,Unknown
+219,41.0,uk,Email
+220,58.0,ukraine,Referral
+221,69.0,germany,Unknown
+222,66.0,uk,Facebook Ads
+223,66.0,ukraine,Facebook Ads
+224,69.0,ukraine,Facebook Ads
+225,29.0,usa,Facebook Ads
+226,56.0,ukraine,Facebook Ads
+227,19.0,ukraine,Google Ads
+228,20.0,ukraine,Unknown
+229,66.0,ukraine,Referral
+230,54.0,uk,Email
+231,66.0,usa,Email
+232,34.0,usa,Unknown
+233,66.0,ukraine,Unknown
+234,19.0,usa,Email
+235,19.0,ukraine,Email
+236,45.0,germany,Google Ads
+237,40.0,uk,Organic
+238,54.0,usa,Referral
+239,49.0,ukraine,Facebook Ads
+240,50.0,ukraine,Organic
+241,18.0,germany,Unknown
+242,36.0,poland,Email
+243,19.0,poland,Organic
+244,45.0,germany,Referral
+245,61.0,ukraine,Unknown
+246,43.0,ukraine,Facebook Ads
+247,49.0,germany,Facebook Ads
+248,23.0,uk,Referral
+249,49.0,uk,Referral
+250,21.0,poland,Email
+251,28.0,usa,Facebook Ads
+252,34.0,ukraine,Unknown
+253,55.0,poland,Organic
+254,41.0,usa,Unknown
+255,22.0,usa,Google Ads
+256,69.0,uk,Google Ads
+257,51.0,ukraine,Referral
+258,23.0,ukraine,Email
+259,39.0,ukraine,Google Ads
+260,28.0,ukraine,Facebook Ads
+261,65.0,germany,Unknown
+262,33.0,uk,Unknown
+263,50.0,usa,Referral
+264,26.0,ukraine,Organic
+265,23.0,ukraine,Referral
+266,33.0,ukraine,Organic
+267,46.0,usa,Referral
+268,20.0,ukraine,Referral
+269,37.0,ukraine,Referral
+270,53.0,ukraine,Organic
+271,36.0,ukraine,Organic
+272,43.0,uk,Referral
+273,20.0,ukraine,Google Ads
+274,36.0,poland,Email
+275,37.0,usa,Email
+276,49.0,uk,Email
+277,24.0,uk,Organic
+278,69.0,uk,Organic
+279,58.0,ukraine,Google Ads
+280,50.0,uk,Email
+281,57.0,ukraine,Email
+282,56.0,uk,Referral
+283,35.0,germany,Organic
+284,57.0,usa,Email
+285,18.0,uk,Unknown
+286,28.0,usa,Google Ads
+287,45.0,germany,Unknown
+288,42.0,germany,Unknown
+289,67.0,usa,Google Ads
+290,40.0,ukraine,Unknown
+291,48.0,poland,Email
+292,47.0,ukraine,Organic
+293,59.0,ukraine,Google Ads
+294,52.0,ukraine,Referral
+295,24.0,ukraine,Unknown
+296,33.0,ukraine,Google Ads
+297,43.0,ukraine,Facebook Ads
+298,65.0,ukraine,Facebook Ads
+299,69.0,uk,Organic
+300,66.0,ukraine,Email
+301,19.0,ukraine,Organic
+302,18.0,germany,Organic
+303,65.0,ukraine,Organic
+304,29.0,ukraine,Organic
+305,22.0,germany,Referral
+306,54.0,usa,Referral
+307,49.0,poland,Google Ads
+308,26.0,ukraine,Facebook Ads
+309,58.0,usa,Organic
+310,52.0,usa,Google Ads
+311,36.0,uk,Facebook Ads
+312,65.0,poland,Unknown
+313,33.0,usa,Email
+314,20.0,usa,Referral
+315,37.0,poland,Unknown
+316,41.0,poland,Facebook Ads
+317,50.0,usa,Unknown
+318,41.0,poland,Email
+319,69.0,usa,Facebook Ads
+320,28.0,usa,Unknown
+321,66.0,uk,Referral
+322,25.0,ukraine,Referral
+323,53.0,usa,Google Ads
+324,55.0,germany,Unknown
+325,57.0,ukraine,Organic
+326,37.0,ukraine,Unknown
+327,52.0,ukraine,Facebook Ads
+328,65.0,ukraine,Facebook Ads
+329,42.0,ukraine,Unknown
+330,52.0,uk,Email
+331,42.0,usa,Referral
+332,46.0,uk,Facebook Ads
+333,35.0,usa,Referral
+334,63.0,uk,Facebook Ads
+335,35.0,uk,Google Ads
+336,19.0,ukraine,Organic
+337,52.0,germany,Facebook Ads
+338,33.0,uk,Referral
+339,58.0,ukraine,Google Ads
+340,53.0,poland,Facebook Ads
+341,50.0,germany,Email
+342,21.0,uk,Organic
+343,50.0,ukraine,Facebook Ads
+344,31.0,ukraine,Google Ads
+345,38.0,poland,Email
+346,65.0,poland,Unknown
+347,37.0,ukraine,Google Ads
+348,25.0,poland,Google Ads
+349,24.0,germany,Email
+350,20.0,uk,Google Ads
+351,34.0,uk,Email
+352,50.0,ukraine,Facebook Ads
+353,65.0,ukraine,Email
+354,29.0,ukraine,Email
+355,68.0,ukraine,Organic
+356,39.0,poland,Email
+357,39.0,ukraine,Email
+358,63.0,ukraine,Unknown
+359,47.0,germany,Facebook Ads
+360,55.0,uk,Organic
+361,55.0,poland,Unknown
+362,62.0,ukraine,Referral
+363,68.0,ukraine,Facebook Ads
+364,25.0,ukraine,Facebook Ads
+365,44.0,germany,Referral
+366,44.0,germany,Email
+367,51.0,ukraine,Unknown
+368,38.0,uk,Google Ads
+369,47.0,ukraine,Organic
+370,50.0,poland,Google Ads
+371,45.0,ukraine,Referral
+372,64.0,germany,Facebook Ads
+373,50.0,ukraine,Facebook Ads
+374,22.0,ukraine,Organic
+375,65.0,uk,Facebook Ads
+376,36.0,ukraine,Facebook Ads
+377,21.0,ukraine,Organic
+378,52.0,usa,Unknown
+379,66.0,ukraine,Unknown
+380,34.0,uk,Organic
+381,61.0,ukraine,Referral
+382,45.0,uk,Facebook Ads
+383,47.0,ukraine,Facebook Ads
+384,46.0,germany,Referral
+385,63.0,uk,Unknown
+386,45.0,ukraine,Email
+387,23.0,uk,Email
+388,52.0,uk,Email
+389,58.0,uk,Unknown
+390,54.0,poland,Unknown
+391,41.0,poland,Referral
+392,46.0,germany,Facebook Ads
+393,66.0,ukraine,Referral
+394,63.0,uk,Referral
+395,45.0,ukraine,Unknown
+396,48.0,ukraine,Email
+397,52.0,ukraine,Google Ads
+398,50.0,ukraine,Facebook Ads
+399,69.0,germany,Unknown
+400,38.0,uk,Email
+401,49.0,uk,Google Ads
+402,40.0,usa,Google Ads
+403,50.0,ukraine,Unknown
+404,20.0,ukraine,Organic
+405,35.0,ukraine,Facebook Ads
+406,42.0,poland,Google Ads
+407,59.0,usa,Unknown
+408,48.0,ukraine,Unknown
+409,20.0,ukraine,Email
+410,57.0,poland,Organic
+411,63.0,poland,Facebook Ads
+412,41.0,poland,Referral
+413,67.0,ukraine,Email
+414,49.0,ukraine,Google Ads
+415,64.0,germany,Google Ads
+416,39.0,germany,Email
+417,40.0,poland,Unknown
+418,19.0,usa,Google Ads
+419,44.0,ukraine,Organic
+420,59.0,ukraine,Facebook Ads
+421,19.0,usa,Organic
+422,43.0,uk,Google Ads
+423,34.0,ukraine,Referral
+424,57.0,ukraine,Facebook Ads
+425,50.0,germany,Facebook Ads
+426,26.0,ukraine,Email
+427,60.0,ukraine,Email
+428,65.0,ukraine,Referral
+429,56.0,ukraine,Unknown
+430,46.0,ukraine,Facebook Ads
+431,59.0,ukraine,Referral
+432,43.0,uk,Email
+433,52.0,uk,Email
+434,67.0,ukraine,Facebook Ads
+435,42.0,poland,Organic
+436,41.0,germany,Google Ads
+437,30.0,germany,Email
+438,24.0,ukraine,Unknown
+439,53.0,ukraine,Unknown
+440,62.0,usa,Email
+441,37.0,poland,Organic
+442,18.0,ukraine,Organic
+443,25.0,poland,Referral
+444,63.0,poland,Unknown
+445,33.0,poland,Referral
+446,31.0,ukraine,Unknown
+447,29.0,ukraine,Google Ads
+448,68.0,germany,Google Ads
+449,40.0,germany,Facebook Ads
+450,32.0,ukraine,Referral
+451,45.0,poland,Email
+452,51.0,usa,Referral
+453,19.0,ukraine,Email
+454,49.0,ukraine,Organic
+455,40.0,ukraine,Referral
+456,39.0,ukraine,Organic
+457,68.0,usa,Google Ads
+458,42.0,ukraine,Google Ads
+459,39.0,ukraine,Facebook Ads
+460,39.0,poland,Referral
+461,66.0,germany,Organic
+462,69.0,ukraine,Email
+463,59.0,uk,Google Ads
+464,23.0,uk,Google Ads
+465,32.0,usa,Email
+466,60.0,poland,Organic
+467,54.0,ukraine,Organic
+468,50.0,poland,Referral
+469,25.0,ukraine,Referral
+470,45.0,usa,Unknown
+471,61.0,usa,Unknown
+472,61.0,uk,Facebook Ads
+473,22.0,poland,Google Ads
+474,56.0,ukraine,Referral
+475,21.0,uk,Organic
+476,23.0,poland,Email
+477,62.0,uk,Organic
+478,49.0,ukraine,Google Ads
+479,69.0,germany,Unknown
+480,47.0,germany,Organic
+481,64.0,germany,Facebook Ads
+482,52.0,germany,Google Ads
+483,57.0,ukraine,Unknown
+484,69.0,ukraine,Email
+485,33.0,ukraine,Unknown
+486,30.0,ukraine,Facebook Ads
+487,67.0,ukraine,Google Ads
+488,59.0,germany,Email
+489,47.0,ukraine,Facebook Ads
+490,36.0,usa,Unknown
+491,34.0,usa,Facebook Ads
+492,36.0,ukraine,Google Ads
+493,45.0,germany,Referral
+494,43.0,germany,Facebook Ads
+495,54.0,germany,Facebook Ads
+496,43.0,uk,Unknown
+497,45.0,poland,Unknown
+498,40.0,uk,Email
+499,26.0,poland,Unknown
+500,29.0,germany,Organic
