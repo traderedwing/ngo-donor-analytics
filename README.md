@@ -144,7 +144,7 @@ The Power BI dashboard contains:
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](ngo-donor-analytics/screenshots/dashboard.png)
 
 ---
 
