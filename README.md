@@ -148,7 +148,7 @@ Main components:
 - ROI vs Cost Analysis
 - Top High-Value Donors
 
-![Dashboard](images/dashboard.png)
+![Dashboard](ngo-donor-analytics/screenshots/dashboard.png)
 
 ---
 
@@ -159,7 +159,8 @@ ngo-donor-analytics/
 ├── data/
 ├── notebook/
 ├── dashboard/
-├── images/
+├── presentation/
+├── screenshots/
 ├── README.md
 ```
 
